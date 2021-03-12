@@ -30,6 +30,6 @@ return [
     'release-date'          => 'Release Datum:',
     'seasons'               => 'Staffeln',
     'select-hub'            => 'Bitte wähle einen Hub',
-    'view-collection'       => 'Die Kollektion ansehen',
+    'view-collection'       => 'Die Sammlung ansehen',
     'wiki-read'             => 'Vollständige Bio auf Wikipedia lesen:',
 ];

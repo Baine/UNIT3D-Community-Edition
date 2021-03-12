@@ -14,7 +14,7 @@
 return [
     'downloads'                   => 'Downloads',
     'extension'                   => 'Erweiterungen',
-    'delete-confirm'              => 'Bist du sicher, dass du dies löschen möchten?',
+    'delete-confirm'              => 'Bist du sicher, dass du dies löschen möchtest?',
     'note'                        => 'Notiz',
     'note-help'                   => 'Extra Info für diesen Untertitel',
     'rules-title'                 => 'Untertitel Regeln!',
@@ -25,7 +25,7 @@ return [
                                         <li>Nur erlaubt sind .srt, .ico und .zip <b>(.zip nur beim Bündeln von Untertiteln der selben Sprache eines TV Staffel Packs.)</b></li>
                                         <li>Das wiederholte Hochladen von "Junk" Untertitel stellt einen Verstoß dar und kann disziplinarisch geahndet werden.</li>
                                         <li>Halte die Notiz des Untertitels kurz. Es sind KEINE Urls/Links erlaubt.</li>
-                                        <li>Alle Untertitel müssen Bestätigt, Verifiziert und richtig getimed sein für den jeweilgen Torrent.</li>
+                                        <li>Alle Untertitel müssen bestätigt, verifiziert und richtig getimed sein für den jeweiligen Torrent.</li>
                                       </ul>',
     'size'                        => 'Größe',
     'subtitle-file'               => 'Untertitel Datei',

@@ -40,7 +40,7 @@ return [
     'no-email-found'      => 'Wir konnten diese E-Mail in unserem System nicht finden!',
     'register-code'       => 'Um die Kontoaktivierung abzuschließen, klicke auf die Schaltfläche unten',
     'register-footer'     => 'Wenn die Schaltfläche oben nicht funktioniert, kopiere den Link und fügen diesen in die Adressleiste deines Browsers ein',
-    'register-header'     => 'Hallo! Vielen Dank, dass für das Registrieren auf',
+    'register-header'     => 'Hallo! Vielen Dank für das Registrieren auf',
     'report-comment'      => 'Kommentar',
     'report-email'        => 'E-Mail',
     'report-header'       => 'Hallo Admin, ein Link wurde reported',

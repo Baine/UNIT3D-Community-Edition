@@ -17,10 +17,10 @@ return [
     | Default Authentication Language Lines
     |--------------------------------------------------------------------------
     */
-    'activation-error'       => 'Verbannt oder ungültiger Invite-oken oder das Nutzerkonto ist bereits aktiviert!',
+    'activation-error'       => 'Verbannt, ungültiger Invite-Token oder das Nutzerkonto ist bereits aktiviert!',
     'activation-success'     => 'Nutzerkonto wurde aktiviert! Du kannst dich jetzt anmelden!',
-    'add-image'              => 'Einen weiteres Bild hinzufügen',
-    'add-profile'            => 'Einen weiteres Profil hinzufügen',
+    'add-image'              => 'Ein weiteres Bild hinzufügen',
+    'add-profile'            => 'Ein weiteres Profil hinzufügen',
     'allow-invite-appl'      => 'Offene Registrierung ist geschlossen! Du musst eingeladen werden, um dich registrieren zu können! Bewerbungen sind jedoch offen. Du wurdest zur Bewerbungsseite weitergeleitet!',
     'allow-invite'           => 'Offene Registrierung ist geschlossen! Du musst eingeladen werden, um dich registrieren zu können! Du wurdest zur Anmeldeseite weitergeleitet!',
     'are-you'                => 'Bist du:',

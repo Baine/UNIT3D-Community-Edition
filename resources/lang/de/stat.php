@@ -12,7 +12,7 @@
  */
 
 return [
-    'active'                  => 'Aktive',
+    'active'                  => 'Aktiv',
     'all'                     => 'Alle',
     'all-time'                => 'Alle Bisher',
     'banned'                  => 'Verbannte',
@@ -30,15 +30,15 @@ return [
     'pruned'                  => 'Deaktivierte',
     'real'                    => '',
     'registration-date'       => 'Registrierungs-Datum',
-    'request-fulfilled'       => 'Request erfüllt',
-    'request-not-fulfilled'   => 'Request nicht erfüllt',
-    'request-pending-aproval' => 'Noch ausstehende Request Genehmigung',
+    'request-fulfilled'       => 'Anfrage erfüllt',
+    'request-not-fulfilled'   => 'Anfrage nicht erfüllt',
+    'request-pending-aproval' => 'Noch ausstehende Anfrage Genehmigung',
     'select-category'         => 'Bitte wähle eine Kategorie aus',
     'site-stats'              => 'Seiten-Statistiken',
     'stats'                   => 'Statistiken',
     'stats-format'            => 'Alle Statistiken werden im Top-100-Format angezeigt',
     'top-bankers'             => 'Top Punkte-Hoarder',
-    'top-bountied'            => 'Top Bountied',
+    'top-bountied'            => 'Top Belohnt',
     'top-completed'           => 'Top Abgeschlossen',
     'top-dead'                => 'Top Tot',
     'top-downloaded'          => 'Top Heruntergeladene Torrents',

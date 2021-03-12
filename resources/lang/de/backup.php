@@ -25,7 +25,7 @@ return [
 
     'backup'                         => 'Backup',
     'backup_process_started'         => 'Neuer Backup Prozess gestartet',
-    'create_a_new_backup'            => 'Komplett Backup erstellen',
+    'create_a_new_backup'            => 'Komplettes Backup erstellen',
     'create_a_new_files_backup'      => 'Datei Backup erstellen',
     'create_a_new_db_backup'         => 'Datenbank Backup erstellen',
     'existing_backups'               => 'Vorhandene Backups',

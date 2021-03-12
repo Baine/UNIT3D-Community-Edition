@@ -18,7 +18,7 @@ return [
     'images'                      => 'Bilder',
     'created'                     => 'Erstellt',
     'created-by'                  => 'von',
-    'uploaded-by'                 => 'Hochgelanden von',
+    'uploaded-by'                 => 'Hochgeladen von',
     'create-an-album'             => 'Einen Album erstellen',
     'create-an-album-tip'         => 'Die IMDB Nummer wird den Albumnamen herunterladen! Bitte verwende ein schönes Titelbild!',
     'select-cover'                => 'Ein Titelbild auswählen',

@@ -17,7 +17,7 @@ return [
     'aboutus-advantage2'    => 'Neben unserer großen Leidenschaft für Filme und Fernsehsendungen bieten wir auch eine der besten Auswahl an etwas, das die meisten nicht tun - FANRES! (Fanrestaurierung) <em>Ein großes Dankeschön</em> an unsere Content-Provider.',
     'aboutus-advantage3'    => 'Wir nehmen zwar Spenden an, um die Website am Laufen zu halten, jedoch werden wir keine störenden PNs oder Banner schalten. Wir werden nicht betteln.',
     'aboutus-advantage4'    => 'Unsere Community ist für ihr junges Alter unübertroffen. Zwischen unseren Team und der Userbase standen wir immer zur Verfügung. Wir sind mit Leidenschaft dabei, dass deine Erfahrungen auf :title unglaublich sein wird.',
-    'aboutus-advantage5'    => 'Unser Service wird täglich von vielen Menschen auf der ganzen Welt genutzt. Wir haben bewiesen, dass uns die Funktionalität und Sicherheit unserer Codebase am Herzen liegt und dass diese vertrauenswürdig und zuverlässig ist. Unsere Entwickler arbeiten täglich daran, eine wirklich nexgen Codebase bereitzustellen.',
+    'aboutus-advantage5'    => 'Unser Service wird täglich von vielen Menschen auf der ganzen Welt genutzt. Wir haben bewiesen, dass uns die Funktionalität und Sicherheit unserer Codebase am Herzen liegt und dass diese vertrauenswürdig und zuverlässig ist. Unsere Entwickler arbeiten täglich daran, eine echte nextgen Codebase bereitzustellen.',
     'aboutus-header'        => 'Hallo',
     'aboutus-rules'         => 'Was brauchen wir von dir?',
     'aboutus-rules1'        => 'Um ein aktives Mitglied der Community zu sein! Dies bedeutet, an Gesprächen produktiv teilzunehmen, erlaubte Inhalte hinzuzufügen und anderen Nutzern möglichst zu helfen.',
